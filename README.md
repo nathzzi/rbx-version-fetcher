@@ -4,8 +4,11 @@ Very simple Python script that scrapes HTML data from [APKCombo](https://apkcomb
 
 ### Example output:
 ```
-Latest roblox version fetched: 2.678.1752
-Latest roblox version code fetched: 1844
+Latest Roblox Global version fetched: 2.679.762
+Latest Roblox Global version code fetched: 1848
+--------------------------------------------------
+Latest Roblox VNG version fetched: 2.678.752
+Latest Roblox VNG version code fetched: 1844
 ```
 
 ## Requirements:
